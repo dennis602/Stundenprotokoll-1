@@ -16,3 +16,14 @@ Heute bekamen wir die konkrete Aufgabe, einen GitHub Account und den Stundenblog
 
 In der heutigen Stunde sollen wir uns überlegen, in welche Richtung wir mit unserem Projekt gehen wollen. Wir haben uns eingehend mit Projekten aus den vergangenen Jahren beschäftigt und beschlossen, ein Spiel zu programmieren. Zudem haben wir uns mit Markdown näher beschäftigt und versucht, erste Links einzufügen.
 
+
+### Dienstag, 20.8.2019
+
+Dieses Mal haben wir uns das erste Mal mit den möglchen Programmiesprachen auseinandergesetzt. Wir haben uns für GameLab entschieden und das Tutorial begonnen, um einen ersten Überblick über die Funktionsweise zu erhalten.
+
+Link code.org !!
+
+
+### Mittwoch, 21.8.2019
+
+Heute setzen wir das Tutorial fort und sprechen über erste Spielideen. 
