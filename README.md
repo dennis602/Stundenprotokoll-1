@@ -41,3 +41,10 @@ Link code.org !!
 Heute setzen wir das Tutorial fort und sprechen über erste Spielideen. Diese waren 
 1. Ein Cliffdiving Spiel, in welchem man neben Salti auch Schrauben ausführen kann.
 2. Ein Spiel, dass auf dem Spiel "Piraten besiegen" basiert, bei welchem man die Gegner mittels Projektile von Gerüsten stoßen muss. Der Winkel und die Geschwindigkeit der Projektile sind hierbei steuerbar. Nun müssen wir uns weiter mit dem Programmieren beschäftigen, um realistisch beurteilen zu können, was wir von unseren Ideen umsetzen können.
+
+
+### Donnerstag, 22.8.2019<a name="6"></a>
+
+Das Tutorial auf studio.code.org habe ich heute weitergeführt und beschlossen, dieses bis zur nächsten Stunde am Dienstag zu Hause zu beenden. Zudem habe ich unser Stundenprotokoll mit Verknüpfungen zu den einzelnen Tagen ausgestattet und aktualisiert.
+
+
