@@ -3,10 +3,15 @@
 ### Inhaltsverzeichnis
 
 [Dienstag, 13.8.2019](#1)
+
 [Mittwoch, 14.8.2019](#2)
+
 [Donnerstag, 15.8.2019](#3)
+
 [Dienstag, 20.8.2019](#4)
+
 [Mittwoch, 21.8.2019](#5)
+
 [Donnerstag, 22.8.2019](#6)
 
 ### Dienstag, 13.8.2019<a name="1"></a>
