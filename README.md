@@ -36,8 +36,7 @@ In der heutigen Stunde sollen wir uns überlegen, in welche Richtung wir mit uns
 ### Dienstag, 20.08.2019<a name="4"></a>
 
 Dieses Mal haben wir uns das erste Mal mit den möglchen Programmiesprachen auseinandergesetzt. Wir haben uns für GameLab entschieden und das Tutorial begonnen, um einen ersten Überblick über die Funktionsweise zu erhalten.
-
-Link code.org !!
+https://studio.code.org/projects/gamelab/hJm-cbgIzes8qSD_1sNGK2q_9pds9md-zeZ778hiezo/edit
 
 
 ### Mittwoch, 21.08.2019<a name="5"></a>
