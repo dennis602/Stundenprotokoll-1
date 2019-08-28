@@ -16,6 +16,8 @@
 
 [Dienstag, 27.08.2019](#7)
 
+[Mittwoch, 28.08.2019](#8)
+
 ### Dienstag, 13.08.2019<a name="1"></a>
 
 Heute war die erste Informatikstunde. Wir haben GitHub kennengelernt und wurden von Herrn Buhl über den Ablauf der Unterrrichtsstunden in Kenntnis gesetzt. Außerdem informierte er uns über die Projekte und nannte uns Beispiele aus den letzten Jahren.
@@ -50,4 +52,8 @@ Heute setzen wir das Tutorial fort und sprechen über erste Spielideen. Diese wa
 Das Tutorial auf studio.code.org habe ich heute weitergeführt und beschlossen, dieses bis zur nächsten Stunde am Dienstag zu Hause zu beenden. Zudem habe ich unser Stundenprotokoll mit Verknüpfungen zu den einzelnen Tagen ausgestattet und aktualisiert.
 
 ### Dienstag, 27.08.2019<a name="7"></a>
+
+In der heutigen Unterrichtsstunde hat Johannes mich (Antonia) über seinen Fortschritt im Tutorial, welches er Zuhause weiter bearbeitet hat, informiert und mir gezeigt, wie man ein erstes Spiel erstellt.
+
+### Mittwoch, 28.08.2019<a name="8"></a>
 
