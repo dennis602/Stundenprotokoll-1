@@ -27,6 +27,7 @@ Heute war die erste Informatikstunde. Wir haben GitHub kennengelernt und wurden 
 
 Heute bekamen wir die konkrete Aufgabe, einen GitHub Account und den Stundenblog anzulegen. Nach anfänglichen Schwierigkeiten gelang dies und wir begannen, GitHub langsam aber sicher zu verstehen. Morgen werden wir weiterschreiben und uns mit GitHub weiter vertraut machen.
 
+Sreenshot
 
 ### Donnerstag, 15.08.2019<a name="3"></a>
 
@@ -36,7 +37,8 @@ In der heutigen Stunde sollen wir uns überlegen, in welche Richtung wir mit uns
 ### Dienstag, 20.08.2019<a name="4"></a>
 
 Dieses Mal haben wir uns das erste Mal mit den möglchen Programmiesprachen auseinandergesetzt. Wir haben uns für GameLab entschieden und das Tutorial begonnen, um einen ersten Überblick über die Funktionsweise zu erhalten.
-https://studio.code.org
+
+https://studio.code.org/projects/gamelab/hJm-cbgIzes8qSD_1sNGK2q_9pds9md-zeZ778hiezo/edit
 
 
 ### Mittwoch, 21.08.2019<a name="5"></a>
@@ -50,9 +52,13 @@ Heute setzen wir das Tutorial fort und sprechen über erste Spielideen. Diese wa
 
 Das Tutorial auf studio.code.org habe ich heute weitergeführt und beschlossen, dieses bis zur nächsten Stunde am Dienstag zu Hause zu beenden. Zudem habe ich unser Stundenprotokoll mit Verknüpfungen zu den einzelnen Tagen ausgestattet und aktualisiert.
 
+Screenshot
+
 ### Dienstag, 27.08.2019<a name="7"></a>
 
 In der heutigen Unterrichtsstunde hat Johannes mich (Antonia) über seinen Fortschritt im Tutorial, welches er Zuhause weiter bearbeitet hat, informiert und mir gezeigt, wie man ein erstes Spiel erstellt.
+
+Screenshot
 
 ### Mittwoch, 28.08.2019<a name="8"></a>
 
