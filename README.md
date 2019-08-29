@@ -58,7 +58,7 @@ Screenshot
 
 In der heutigen Unterrichtsstunde hat Johannes mich (Antonia) über seinen Fortschritt im Tutorial, welches er Zuhause weiter bearbeitet hat, informiert und mir gezeigt, wie man ein erstes Spiel erstellt.
 
-Screenshot
+![Codeausschnitt](https://github.com/AntoniaJohannes/Johannes/blob/master/Erstes%20Spiel%2027.8.PNG?raw=true)
 
 ### Mittwoch, 28.08.2019<a name="8"></a>
 
