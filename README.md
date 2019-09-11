@@ -77,3 +77,6 @@ Am heutigen Tag haben wir uns mit dem Hochladen von Bildern bei GitHub befasst u
 
 
 ### Mittwoch, 11.09.2019<a name="10"></a>
+
+In der heutigen Unterrichtsstunde haben wir besprochen und anschließend festgelegt, wie unser selstprogrammiertes Spiel aussehen soll. Dieses soll ein Jump ´n'
+ Run
