@@ -22,6 +22,8 @@
 
 [Mittwoch, 11.09.2019](#10)
 
+[Donnerstag, 12.09.2019](#11)
+
 ### Dienstag, 13.08.2019<a name="1"></a>
 
 Heute war die erste Informatikstunde. Wir haben GitHub kennengelernt und wurden von Herrn Buhl über den Ablauf der Unterrrichtsstunden in Kenntnis gesetzt. Außerdem informierte er uns über die Projekte und nannte uns Beispiele aus den letzten Jahren.
@@ -79,3 +81,5 @@ Am heutigen Tag haben wir uns mit dem Hochladen von Bildern bei GitHub befasst u
 ### Mittwoch, 11.09.2019<a name="10"></a>
 
 In der heutigen Unterrichtsstunde haben wir besprochen und anschließend festgelegt, wie unser selstprogrammiertes Spiel aussehen soll. Dieses soll in das Jump 'n' Run Genre fallen. Wir haben uns dazu entschlossen ein Comuterspiel zu programmieren, indem zwei Spieler gegeneinander spielen. Das bedeutet, dass es Spieler eins und zwei gibt und sie mit unterschiedlichen Tasten zu steuern sind. Außerdem haben wir uns dazu entschieden, eine Art Parkour zu programmieren, in dessen Ziel es sein soll die als erster eine von uns festgelegten Zahl Münzen oder Punkte zu erreichen. Diese erhält man, indem man sie mit seiner Spielfigur berührt. Es soll unterschiedliche Münzen mit unterschiedlichem Wert geben, die wertvolleren Münzen sollen durch Hindernisse schwer zu erreichen sein. Außerdem soll es Münzen geben, die Punkte abziehen und die die Spieler dementsprechend meiden sollen. Wir überlegen, nicht nur Hindernisse, sondern auch Gegner zu programmieren, die die Spieler umgehen oder bekämpfen sollen. Die Kulisse des Spiels haben wir ebenfalls noch nicht entgültig festgelegt. 
+
+### Donnerstag, 12.09.2019<a name="11"></a>
