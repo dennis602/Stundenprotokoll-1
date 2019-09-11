@@ -20,6 +20,8 @@
 
 [Donnerstag, 29.8.2019](#9)
 
+[Mittwoch, 11.09.2019](#10)
+
 ### Dienstag, 13.08.2019<a name="1"></a>
 
 Heute war die erste Informatikstunde. Wir haben GitHub kennengelernt und wurden von Herrn Buhl über den Ablauf der Unterrrichtsstunden in Kenntnis gesetzt. Außerdem informierte er uns über die Projekte und nannte uns Beispiele aus den letzten Jahren.
@@ -67,6 +69,9 @@ In der heutigen Unterrichtsstunde hat Johannes mich (Antonia) über seinen Forts
 Heute haben wir das Spiel vom vorigen Tag weiter optimiert, indem wir eingeführt haben, dass die Spielfigur rechts erscheint, wenn sie links aus dem Bild fliegt und umgekehrt. Dasselbe haben wir für oben und unten eingeführt. Weitere Animationen haben wir diskutiert; nachdem wir sie eingeführt hatten, machte der Bot allerdings nicht mehr das, was er sollte. Das stelle uns auch nach langem Überlegen vor ein ungelöstes Problem. 
 
 
-### Donnerstag, 29.8.2019<a name="9"></a>
+### Donnerstag, 29.08.2019<a name="9"></a>
 
 Am heutigen Tag haben wir uns mit dem Hochladen von Bildern bei GitHub befasst und führen außerdem beide unsere Tutorials weiter, um endlich in der Lage zu sein, ein Spiel zu programmieren. Hierbei ist der größte Punkt, dass wir genau wissen müssen, was möglich und was nicht möglich ist, um unseren Rahmen zu kennen. Aus diesem Grund werde ich (Johannes) nun endlich das Tutorial am Wochenende beenden, nachdem ich dies letzte Woche nicht geschafft hatte. Antonia macht ebenfalls das Tutorial. Diskussionen, was für ein Spiel letzten Endes unser Ziel sein soll, haben wir auf später verschoben, da wir beide das Tutorial noch nicht beendet haben. 
+
+
+### Mittwoch, 11.09.2019<a name="10"></a>
