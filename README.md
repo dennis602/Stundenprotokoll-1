@@ -24,6 +24,10 @@
 
 [Donnerstag, 12.09.2019](#11)
 
+[Dienstag, 24.09.2019](#12)
+
+[Mittwoch, 25.09.2019](#13)
+
 ### Dienstag, 13.08.2019<a name="1"></a>
 
 Heute war die erste Informatikstunde. Wir haben GitHub kennengelernt und wurden von Herrn Buhl über den Ablauf der Unterrrichtsstunden in Kenntnis gesetzt. Außerdem informierte er uns über die Projekte und nannte uns Beispiele aus den letzten Jahren.
@@ -80,8 +84,17 @@ Am heutigen Tag haben wir uns mit dem Hochladen von Bildern bei GitHub befasst u
 
 ### Mittwoch, 11.09.2019<a name="10"></a>
 
-In der heutigen Unterrichtsstunde haben wir besprochen und anschließend festgelegt, wie unser selstprogrammiertes Spiel aussehen soll. Dieses soll in das Jump 'n' Run Genre fallen. Wir haben uns dazu entschlossen, ein Comuterspiel zu programmieren, in dem zwei Spieler gegeneinander spielen. Das bedeutet, dass es Spieler 1 und 2 gibt und sie mit unterschiedlichen Tasten zu steuern sind. Außerdem haben wir uns dazu entschieden, eine Art Parkour zu programmieren, in dessen Ziel es sein soll, als erster eine von uns festgelegten Zahl Münzen oder Punkte zu erreichen. Diese erhält man, indem man sie mit seiner Spielfigur berührt. Es soll unterschiedliche Münzen mit unterschiedlichem Wert geben, die wertvolleren Münzen sollen durch Hindernisse schwer zu erreichen sein. Außerdem soll es Münzen geben, die Punkte abziehen und die die Spieler dementsprechend meiden sollen. Wir überlegen, nicht nur Hindernisse, sondern auch Gegner zu programmieren, die die Spieler umgehen oder bekämpfen sollen. Die Kulisse des Spiels haben wir ebenfalls noch nicht entgültig festgelegt. 
+In der heutigen Unterrichtsstunde haben wir besprochen und anschließend festgelegt, wie unser selstprogrammiertes Spiel aussehen soll. Dieses soll in das Collector Genre fallen. Wir haben uns dazu entschlossen, ein Comuterspiel zu programmieren, in dem zwei Spieler gegeneinander spielen. Das bedeutet, dass es Spieler 1 und 2 gibt und sie mit unterschiedlichen Tasten zu steuern sind. Außerdem haben wir uns dazu entschieden, eine Art Parkour zu programmieren, in dessen Ziel es sein soll, als erster eine von uns festgelegten Zahl Münzen oder Punkte zu erreichen. Diese erhält man, indem man sie mit seiner Spielfigur berührt. Es soll unterschiedliche Münzen mit unterschiedlichem Wert geben, die wertvolleren Münzen sollen durch Hindernisse schwer zu erreichen sein. Außerdem soll es Münzen geben, die Punkte abziehen und die die Spieler dementsprechend meiden sollen. Wir überlegen, nicht nur Hindernisse, sondern auch Gegner zu programmieren, die die Spieler umgehen oder bekämpfen sollen. Die Kulisse des Spiels haben wir ebenfalls noch nicht entgültig festgelegt. 
+
 
 ### Donnerstag, 12.09.2019<a name="11"></a>
 
-In dieser Stunde haben wir den Hintergrund festgelegt, welcher schwarz, mit kleinen, gelben die Position ständig verändernden Punkten ist. Der Hintergrund soll das Weltall darstellen, die gelben Punkte entsprechend die funkelnden Sterne. Wir wollen unser Projekt im Weltraum Thema halten, da die Figuren Aliens darstellen. Wir haben heute sie Startpositionen der Spieler, sowie die Steuerung codiert. Spieler eins verwendet die Taste "W" um sich nach oben zu bewegen, "A" um sich nach links zu bewegen, "S" um sich nach unten zu bewegen und "D" um sich entsprechend nach rechts zu bewegen. Der Spieler zwei verwendet für die gleiche Steuerung die Pfeiltasten. Durch das Berühren der verschidenen Coins, erlangt man Punkte. Wenn man einen Coin berührt hat, erscheint er an einer anderen Stelle erneut.
+In dieser Stunde haben wir den Hintergrund festgelegt, welcher schwarz mit kleinen gelben die Position ständig verändernden Punkten ist. Der Hintergrund soll das Weltall darstellen, die gelben Punkte entsprechend die funkelnden Sterne. Wir wollen unser Projekt im Weltraumthema halten, da die Figuren Aliens darstellen. Wir haben heute die Startpositionen der Spieler sowie die Steuerung codiert. Spieler 1 verwendet die Taste "W" um sich nach oben zu bewegen, "A" um sich nach links zu bewegen, "S" um sich nach unten zu bewegen und "D" um sich entsprechend nach rechts zu bewegen. Der Spieler 2 verwendet für die gleiche Steuerung die Pfeiltasten. Durch das Berühren der verschiedenen Coins, erlangt man Punkte. Wenn man einen Coin berührt hat, erscheint er an einer anderen Stelle erneut.
+
+
+###Dienstag, 24.09.2019<a name="12"></a>
+
+Nach einwöchiger Pause haben wir uns heute mit der Optimierung der Steuerung beschäftigt. Dazu haben wir zunächst die Bewegungsgeschwindigkeit von 0.5 auf 2 erhöht. Anschließend haben wir Ränder eingefügt, wodurch die Spielfiguren das Spielfeld nicht mehr verlassen können, sondern stattdessen auf der anderen Seite erscheinen. Ebenfalls wollten wir für die Richtungen "links" und "rechts" andere Animationen einbauen, was jedoch nicht ganz so funktioniert hat, wie wir uns das eigentlich vorgestellt hatten. Das werden wir vermutlich nächste Stunde beheben. Diskutiert haben wir nebenbei auch noch die Funktion der Coins zusätzlich als Collectable, sind aber zu keinem Ergebnis gekommen. Auch über Hindernisse haben wir kurz gesprochen, aber auch hier müssen wir uns noch stärker mit befassen.
+
+
+###Mittwoch, 25.09.2019<a name="13"></a>
