@@ -92,9 +92,10 @@ In der heutigen Unterrichtsstunde haben wir besprochen und anschließend festgel
 In dieser Stunde haben wir den Hintergrund festgelegt, welcher schwarz mit kleinen gelben die Position ständig verändernden Punkten ist. Der Hintergrund soll das Weltall darstellen, die gelben Punkte entsprechend die funkelnden Sterne. Wir wollen unser Projekt im Weltraumthema halten, da die Figuren Aliens darstellen. Wir haben heute die Startpositionen der Spieler sowie die Steuerung codiert. Spieler 1 verwendet die Taste "W" um sich nach oben zu bewegen, "A" um sich nach links zu bewegen, "S" um sich nach unten zu bewegen und "D" um sich entsprechend nach rechts zu bewegen. Der Spieler 2 verwendet für die gleiche Steuerung die Pfeiltasten. Durch das Berühren der verschiedenen Coins, erlangt man Punkte. Wenn man einen Coin berührt hat, erscheint er an einer anderen Stelle erneut.
 
 
-###Dienstag, 24.09.2019<a name="12"></a>
+### Dienstag, 24.09.2019<a name="12"></a>
 
 Nach einwöchiger Pause haben wir uns heute mit der Optimierung der Steuerung beschäftigt. Dazu haben wir zunächst die Bewegungsgeschwindigkeit von 0.5 auf 2 erhöht. Anschließend haben wir Ränder eingefügt, wodurch die Spielfiguren das Spielfeld nicht mehr verlassen können, sondern stattdessen auf der anderen Seite erscheinen. Ebenfalls wollten wir für die Richtungen "links" und "rechts" andere Animationen einbauen, was jedoch nicht ganz so funktioniert hat, wie wir uns das eigentlich vorgestellt hatten. Das werden wir vermutlich nächste Stunde beheben. Diskutiert haben wir nebenbei auch noch die Funktion der Coins zusätzlich als Collectable, sind aber zu keinem Ergebnis gekommen. Auch über Hindernisse haben wir kurz gesprochen, aber auch hier müssen wir uns noch stärker mit befassen.
 
 
-###Mittwoch, 25.09.2019<a name="13"></a>
+### Mittwoch, 25.09.2019<a name="13"></a>
+
