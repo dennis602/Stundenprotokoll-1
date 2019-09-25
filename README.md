@@ -28,6 +28,8 @@
 
 [Mittwoch, 25.09.2019](#13)
 
+[Donnerstag, 26.08.2019] (#14)
+
 ### Dienstag, 13.08.2019<a name="1"></a>
 
 Heute war die erste Informatikstunde. Wir haben GitHub kennengelernt und wurden von Herrn Buhl über den Ablauf der Unterrrichtsstunden in Kenntnis gesetzt. Außerdem informierte er uns über die Projekte und nannte uns Beispiele aus den letzten Jahren.
@@ -99,3 +101,7 @@ Nach einwöchiger Pause haben wir uns heute mit der Optimierung der Steuerung be
 
 ### Mittwoch, 25.09.2019<a name="13"></a>
 
+Wir haben uns heute überleg, was wir tun können, um unser Spiel interessanter zu gestalten. Wir haben uns überlegt, Hindernisse einzuführen, die das Einsammeln von Coins erschweren sollen. Momentan überlegen wir noch, ob man sie bekämpfen, und damit zerstören kann, oder ob man sie nur umgehen kann. Wir haben programmiert, dass das Hindernis, welches in unserer ersten Überlegung eine Sonne darstellt, Coins nicht überdecken kann sowie, dass die Coins nicht auf dem Hindernis liegen können. In der nächsten Stunde müssen wir die größe des Hindernisses an die Größe der anderen Animationen anpassen und programmieren, was passiert, wenn eine Spielfigur das Hindernis berührt. Wir dachten an einen Verlust von Münzen.
+
+
+### Donnerstag, 26.09.2019<a name="14"></a>
