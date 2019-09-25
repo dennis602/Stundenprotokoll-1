@@ -28,7 +28,7 @@
 
 [Mittwoch, 25.09.2019](#13)
 
-[Donnerstag, 26.09.2019] (#14)
+[Donnerstag, 26.09.2019](#14)
 
 ### Dienstag, 13.08.2019<a name="1"></a>
 
