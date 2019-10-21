@@ -30,6 +30,10 @@
 
 [Donnerstag, 26.09.2019](#14)
 
+[Dienstag, 01.10.2019](#15)
+
+[Mittwoch, 02.10.2019](#16)
+
 ### Dienstag, 13.08.2019<a name="1"></a>
 
 Heute war die erste Informatikstunde. Wir haben GitHub kennengelernt und wurden von Herrn Buhl über den Ablauf der Unterrrichtsstunden in Kenntnis gesetzt. Außerdem informierte er uns über die Projekte und nannte uns Beispiele aus den letzten Jahren.
@@ -101,7 +105,18 @@ Nach einwöchiger Pause haben wir uns heute mit der Optimierung der Steuerung be
 
 ### Mittwoch, 25.09.2019<a name="13"></a>
 
-Wir haben uns heute überleg, was wir tun können, um unser Spiel interessanter zu gestalten. Wir haben uns überlegt, Hindernisse einzuführen, die das Einsammeln von Coins erschweren sollen. Momentan überlegen wir noch, ob man sie bekämpfen, und damit zerstören kann, oder ob man sie nur umgehen kann. Wir haben programmiert, dass das Hindernis, welches in unserer ersten Überlegung eine Sonne darstellt, Coins nicht überdecken kann sowie, dass die Coins nicht auf dem Hindernis liegen können. In der nächsten Stunde müssen wir die größe des Hindernisses an die Größe der anderen Animationen anpassen und programmieren, was passiert, wenn eine Spielfigur das Hindernis berührt. Wir dachten an einen Verlust von Münzen.
+Wir haben uns heute überlegt, was wir tun können, um unser Spiel interessanter zu gestalten. Wir haben uns überlegt, Hindernisse einzuführen, die das Einsammeln von Coins erschweren sollen. Momentan überlegen wir noch, ob man sie bekämpfen, und damit zerstören kann, oder ob man sie nur umgehen kann. Wir haben programmiert, dass das Hindernis, welches in unserer ersten Überlegung eine Sonne darstellt, Coins nicht überdecken kann sowie, dass die Coins nicht auf dem Hindernis liegen können. In der nächsten Stunde müssen wir die größe des Hindernisses an die Größe der anderen Animationen anpassen und programmieren, was passiert, wenn eine Spielfigur das Hindernis berührt. Wir dachten an einen Verlust von Münzen.
 
 
 ### Donnerstag, 26.09.2019<a name="14"></a>
+
+Heute haben wir weiter an unserem Spiel gearbeitet und die Steuerung optimiert. Außerdem haben wir das Spiel so Programmiert, dass die Spieler Coins verlieren, sobald sie das Hinderniss, welches in diesem Fall eine Sonne ist berühren. Da es aber nicht möglich sein soll, weniger als 0 Coins zu haben, haben wir programmiert, dass die Spieler sobald sie alle Coins verloren haben wieder an den Startpunkt kommen und erneut mit dem Sammeln der Münzen anfangen. 
+
+
+
+### Dienstag, 01.10.2019<a name="15"></a>
+
+Die 12ab war an diesem Tag auf Exkursion und somit nicht im Informatikunterricht anwesend.
+
+
+### Mittwoch, 02.10.2019<a name="16"></a>
