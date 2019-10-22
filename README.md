@@ -34,6 +34,8 @@
 
 [Mittwoch, 02.10.2019](#16)
 
+[Dienstag, 22.10.2019](#17)
+
 ### Dienstag, 13.08.2019<a name="1"></a>
 
 Heute war die erste Informatikstunde. Wir haben GitHub kennengelernt und wurden von Herrn Buhl über den Ablauf der Unterrrichtsstunden in Kenntnis gesetzt. Außerdem informierte er uns über die Projekte und nannte uns Beispiele aus den letzten Jahren.
@@ -120,3 +122,8 @@ Die 12ab war an diesem Tag auf Exkursion und somit nicht im Informatikunterricht
 
 
 ### Mittwoch, 02.10.2019<a name="16"></a>
+
+
+### Dienstag, 22.10.2019<a name="17"></a>
+
+Die heutige Unterrichtsstunde war die erste nach den Herbstferien. Erst haben wir uns in unseren Code wieder eingelesen und rekonstruiert, was unsere letzte Veränderung war. Wir haben uns daran erinnert, dass wir daran gearbeitet haben dem Spiel ein Ende zu programmieren. Wir haben uns überlegt, dass man die Charaktere nicht mehr bewegen kann und dass nur noch die Figur des Spielers der gewonnen hat zu sehen sein sollte. Außerdem suchten wir nach einer Medallie, die dann neben den Spieler auftauchen sollte. Eventuell wollen wir einen Text hinzufügen, in dem steht, welcher Spieler gewann. Wir haben beschlossen, das Spiel so weit wie möglich zu beenden um uns dann um die Feinheiten zu kümmern und eventuell noch bewegliche Hindernisse hinzuzufügen.
