@@ -36,6 +36,8 @@
 
 [Dienstag, 22.10.2019](#17)
 
+[Mittwoch, 23.10,2019](#18)
+
 ### Dienstag, 13.08.2019<a name="1"></a>
 
 Heute war die erste Informatikstunde. Wir haben GitHub kennengelernt und wurden von Herrn Buhl über den Ablauf der Unterrrichtsstunden in Kenntnis gesetzt. Außerdem informierte er uns über die Projekte und nannte uns Beispiele aus den letzten Jahren.
@@ -133,6 +135,6 @@ Die heutige Unterrichtsstunde war die erste nach den Herbstferien. Erst haben wi
 Zudem konnten wir das Problem mit den unsichtbaren Winning Coins durch zusätzliche Voraussetzungen im Code beheben. Auch das Standbild funktioniert nun besser, da der neue Hintergrund die Sterne überlagert.
 
 
-### Mittwoch, 23.10.2019
+### Mittwoch, 23.10.2019<a name="18"></a>
 
-
+Nachdem wir uns gestern mit dem Ende des Spiels auseinandergesetzt hatten, stießen wir heute auf ein großes Problem. Die Funktion, die nach dem Ende des Spiels die Steuerung beider Spielfiguren ausschalten sollte, schaltete die Steuerung von Anfang an aus, sodass man nicht mehr spielen konnte. Zudem war teilweise die Endbildschirm direkt zu sehen, was auch nicht Ziel des Ganzen war. So mussten wir mehr oder weniger die gesamte Stunde damit verbringen, dieses Problem zu beheben. Der Ansatz dazu war einfach, da wir einfach die Funktion, die den Prozess des Gewinnens codierte, in mehrere aufteilen mussten. Dadurch war der Fehler zwar schnell gefunden, allerdings mussten wir den gesamten nochmal schreiben, da das Kopieren von Code in der Vergangenheit zu mehr Fehlern und Stress als zu Erfolgen geführt hatte. Am Ende der Stunde hatten wir aber ein funktionierendes Programm, welches in der Weise umgesetzt wurde, wie wir es beabsichtigten. Zudem behoben wir kleinere Fehler und entfernten außerdem, dass man Hindernisse zerstören kann. Wir halten es für sinnvoller, permamente Hindernisse zu haben. In der nächsten Stunde werden wir dann den Endbildschirm fertigstellen und uns dann an die Verfeinerung des Spiels machen.
