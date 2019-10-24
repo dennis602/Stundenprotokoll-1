@@ -38,6 +38,8 @@
 
 [Mittwoch, 23.10,2019](#18)
 
+[Donnerstag, 24.10.2019](#19)
+
 ### Dienstag, 13.08.2019<a name="1"></a>
 
 Heute war die erste Informatikstunde. Wir haben GitHub kennengelernt und wurden von Herrn Buhl über den Ablauf der Unterrrichtsstunden in Kenntnis gesetzt. Außerdem informierte er uns über die Projekte und nannte uns Beispiele aus den letzten Jahren.
@@ -138,3 +140,9 @@ Zudem konnten wir das Problem mit den unsichtbaren Winning Coins durch zusätzli
 ### Mittwoch, 23.10.2019<a name="18"></a>
 
 Nachdem wir uns gestern mit dem Ende des Spiels auseinandergesetzt hatten, stießen wir heute auf ein großes Problem. Die Funktion, die nach dem Ende des Spiels die Steuerung beider Spielfiguren ausschalten sollte, schaltete die Steuerung von Anfang an aus, sodass man nicht mehr spielen konnte. Zudem war teilweise die Endbildschirm direkt zu sehen, was auch nicht Ziel des Ganzen war. So mussten wir mehr oder weniger die gesamte Stunde damit verbringen, dieses Problem zu beheben. Der Ansatz dazu war einfach, da wir einfach die Funktion, die den Prozess des Gewinnens codierte, in mehrere aufteilen mussten. Dadurch war der Fehler zwar schnell gefunden, allerdings mussten wir den gesamten nochmal schreiben, da das Kopieren von Code in der Vergangenheit zu mehr Fehlern und Stress als zu Erfolgen geführt hatte. Am Ende der Stunde hatten wir aber ein funktionierendes Programm, welches in der Weise umgesetzt wurde, wie wir es beabsichtigten. Zudem behoben wir kleinere Fehler und entfernten außerdem, dass man Hindernisse zerstören kann. Wir halten es für sinnvoller, permamente Hindernisse zu haben. In der nächsten Stunde werden wir dann den Endbildschirm fertigstellen und uns dann an die Verfeinerung des Spiels machen.
+
+
+### Donnerstag, 24.10.2019<a name="19"></a>
+
+Heute haben wir dem Spiel das Ende gegeben und letzte Codezeilen für das Grundspiel geschrieben. Das Spiel endet nun, indem man den eigenen Winning Coin einsammelt, der erscheint, sobald man 30 Münzen gesammelt hat. Dieser kann auch wieder verschwinden, indem der Gegner diesen einsammelt und so den Coincounter auf 20 zurücksetzt. Sollte ein Spieler gewinnen, erscheint ein hellblauer Hintergrund. Darüber bilden wir eine Medallie und den Sprite des Siegers in Siegerpose ab. Als Text steht dort "Congratulations!" und, je nach Gewinner "Player 1 Wins" bzw. "Player 2 Wins".
+Jetzt, wo das Grundspiel fertig ist, wollen wir weitere Hindernisse einfügen, um das Spiel etwas schwieriger zu gestalten. Deshalb haben wir zwei Raumschiffe ausgewählt, die in einem Quadrat um das zentrale Hindernis, die Sonne, im Uhrzeigersinn herumfliegen sollen. In der nächsten Stunde werden wir die Flugbahnen und das Verhalten bei Zusammenstoß programmieren, da wir heute erst gegen Ende der Stunde damit angefangen hatten.
