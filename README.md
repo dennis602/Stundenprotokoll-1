@@ -141,7 +141,7 @@ Zudem konnten wir das Problem mit den unsichtbaren Winning Coins durch zusätzli
 
 Nachdem wir uns gestern mit dem Ende des Spiels auseinandergesetzt hatten, stießen wir heute auf ein großes Problem. Die Funktion, die nach dem Ende des Spiels die Steuerung beider Spielfiguren ausschalten sollte, schaltete die Steuerung von Anfang an aus, sodass man nicht mehr spielen konnte. Zudem war teilweise die Endbildschirm direkt zu sehen, was auch nicht Ziel des Ganzen war. So mussten wir mehr oder weniger die gesamte Stunde damit verbringen, dieses Problem zu beheben. Der Ansatz dazu war einfach, da wir einfach die Funktion, die den Prozess des Gewinnens codierte, in mehrere aufteilen mussten. Dadurch war der Fehler zwar schnell gefunden, allerdings mussten wir den gesamten nochmal schreiben, da das Kopieren von Code in der Vergangenheit zu mehr Fehlern und Stress als zu Erfolgen geführt hatte. Am Ende der Stunde hatten wir aber ein funktionierendes Programm, welches in der Weise umgesetzt wurde, wie wir es beabsichtigten. Zudem behoben wir kleinere Fehler und entfernten außerdem, dass man Hindernisse zerstören kann. Wir halten es für sinnvoller, permamente Hindernisse zu haben. In der nächsten Stunde werden wir dann den Endbildschirm fertigstellen und uns dann an die Verfeinerung des Spiels machen.
 
- ![Bildschirmfoto 23.10..png]
+ ![Bildschirmfoto 23.10]
  
 ### Donnerstag, 24.10.2019<a name="19"></a>
 
