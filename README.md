@@ -80,7 +80,7 @@ Screenshot
 
 In der heutigen Unterrichtsstunde hat Johannes mich (Antonia) über seinen Fortschritt im Tutorial, welches er Zuhause weiter bearbeitet hat, informiert und mir gezeigt, wie man ein erstes Spiel erstellt. Hierbei griff er auf die Kenntnisse des Tutorials zurück, in dessen Rahmen man bereits kleine Spiele erstellt. Diese basieren auf den isTouching und velocityX bzw. velocityY Befehlen und funktionieren sehr gut als Einstieg. Zudem haben wir weitere Funktionen oder Erweiterungen für das Spiel diskutiert.
 
-![Codeausschnitt erstes kleines Spiel](https://github.com/AntoniaJohannes/Johannes/blob/master/Erstes%20Spiel%2027.8.PNG?raw=true)
+![Codeausschnitt erstes kleines Spiel] (https://github.com/AntoniaJohannes/Johannes/blob/master/Erstes%20Spiel%2027.8.PNG?raw=true)
 
 https://studio.code.org/projects/gamelab/EnadgHkFPFnDpVfr0FkQonvOLRhZsmTOVeFaQ5JREJw
 
