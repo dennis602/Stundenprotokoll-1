@@ -152,7 +152,7 @@ Heute haben wir dem Spiel das Ende gegeben und letzte Codezeilen für das Grunds
 Jetzt, wo das Grundspiel fertig ist, wollen wir weitere Hindernisse einfügen, um das Spiel etwas schwieriger zu gestalten. Deshalb haben wir zwei Raumschiffe ausgewählt, die in einem Quadrat um das zentrale Hindernis, die Sonne, im Uhrzeigersinn herumfliegen sollen. In der nächsten Stunde werden wir die Flugbahnen und das Verhalten bei Zusammenstoß programmieren, da wir heute erst gegen Ende der Stunde damit angefangen hatten.
 
 [Bildschirmfoto Player 1 wins](https://github.com/AntoniaJohannes/Johannes/blob/master/Bildschirmfoto%20Player%201%20wins%20.jpeg)
-[Bildschirmfoto Player 2 wins](
+[Bildschirmfoto Player 2 wins](https://github.com/AntoniaJohannes/Johannes/blob/master/Bildschirmfoto%20Player%202%20wins.jpeg)
 
 ### Dienstag, 29.10.2019<a name="20"></a>
 
