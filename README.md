@@ -52,7 +52,7 @@ Heute war die erste Informatikstunde. Wir haben GitHub kennengelernt und wurden 
 
 Heute bekamen wir die konkrete Aufgabe, einen GitHub Account und den Stundenblog anzulegen. Nach anfänglichen Schwierigkeiten gelang dies und wir begannen, GitHub langsam aber sicher zu verstehen. Morgen werden wir weiterschreiben und uns mit GitHub weiter vertraut machen.
 
-Sreenshot
+![GitHub Anfänge](https://github.com/AntoniaJohannes/Stundenprotokoll/blob/master/GitHub%201.PNG)
 
 ### Donnerstag, 15.08.2019<a name="3"></a>
 
@@ -61,7 +61,7 @@ In der heutigen Stunde sollen wir uns überlegen, in welche Richtung wir mit uns
 
 ### Dienstag, 20.08.2019<a name="4"></a>
 
-Dieses Mal haben wir uns das erste Mal mit den möglchen Programmiesprachen auseinandergesetzt. Wir haben uns für GameLab entschieden und das Tutorial begonnen, um einen ersten Überblick über die Funktionsweise zu erhalten.
+Dieses Mal haben wir uns das erste Mal mit den möglchen Programmiersprachen auseinandergesetzt. Wir haben uns für GameLab entschieden und das Tutorial begonnen, um einen ersten Überblick über die Funktionsweise zu erhalten.
 
 https://studio.code.org
 
