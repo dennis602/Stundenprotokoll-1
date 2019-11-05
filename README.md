@@ -77,7 +77,7 @@ Heute setzen wir das Tutorial fort und sprechen über erste Spielideen. Diese wa
 
 Das Tutorial auf studio.code.org habe ich heute weitergeführt und beschlossen, dieses bis zur nächsten Stunde am Dienstag zu Hause zu beenden, um eine gute Grundlage für folgende Stunden zu schaffen. Zudem habe ich unser Stundenprotokoll mit Verknüpfungen zu den einzelnen Tagen ausgestattet und aktualisiert, um sowohl eine gute Struktur und Übersicht zu haben als auch demnächst direkt weitere Verknüpfungen erstellen zu können.
 
-Screenshot
+![GitHub Links](https://github.com/AntoniaJohannes/Stundenprotokoll/blob/master/GitHub%202.PNG)
 
 ### Dienstag, 27.08.2019<a name="7"></a>
 
