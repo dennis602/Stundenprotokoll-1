@@ -106,6 +106,7 @@ In der heutigen Unterrichtsstunde haben wir besprochen und anschließend festgel
 
 In dieser Stunde haben wir den Hintergrund festgelegt, welcher schwarz mit kleinen gelben, die Position ständig verändernden Punkten ist. Der Hintergrund soll das Weltall darstellen, die gelben Punkte entsprechend die funkelnden Sterne. Wir wollen unser Projekt im Weltraumthema halten, da die Figuren Aliens darstellen. Wir haben heute die Startpositionen der Spieler sowie die Steuerung codiert. Spieler 1 verwendet die Taste "W" um sich nach oben zu bewegen, "A" um sich nach links zu bewegen, "S" um sich nach unten zu bewegen und "D" um sich entsprechend nach rechts zu bewegen. Der Spieler 2 verwendet für die gleiche Steuerung die Pfeiltasten. Durch das Berühren der verschiedenen Coins erlangt man Punkte. Wenn man einen Coin berührt hat, erscheint er an einer anderen Stelle erneut. Es gibt Coins mit den Wertigkeiten 1, 2, 5 und -1. Diese haben alle ein unterschiedliches Aussehen und sind dadurch eindeutig zu unterscheiden.
 
+![Codeausschnitt Background](https://github.com/AntoniaJohannes/Stundenprotokoll/blob/master/Background.PNG)
 
 ### Dienstag, 24.09.2019<a name="12"></a>
 
