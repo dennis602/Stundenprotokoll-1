@@ -96,6 +96,7 @@ Heute haben wir das Spiel vom vorigen Tag weiter optimiert, indem wir eingeführ
 
 Am heutigen Tag haben wir uns mit dem Hochladen von Bildern bei GitHub befasst und führen außerdem beide unsere Tutorials weiter, um endlich in der Lage zu sein, ein Spiel zu programmieren. Hierbei ist der größte Punkt, dass wir genau wissen müssen, was möglich und was nicht möglich ist, um unseren Rahmen zu kennen. Aus diesem Grund werde ich (Johannes) nun endlich das Tutorial am Wochenende beenden, nachdem ich dies letzte Woche nicht geschafft hatte. Antonia macht ebenfalls das Tutorial. Diskussionen, was für ein Spiel letzten Endes unser Ziel sein soll, haben wir auf später verschoben, da wir beide das Tutorial noch nicht beendet haben. 
 
+![Tutorial](https://github.com/AntoniaJohannes/Stundenprotokoll/blob/master/Studio.code.org.PNG)
 
 ### Mittwoch, 11.09.2019<a name="10"></a>
 
