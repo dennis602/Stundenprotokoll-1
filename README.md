@@ -2,47 +2,47 @@
 ## Stundenprotokoll
 ### Inhaltsverzeichnis
 
-[Dienstag, 13.08.2019](#1)
+[1. Dienstag, 13.08.2019](#1)
 
-[Mittwoch, 14.08.2019](#2)
+[2. Mittwoch, 14.08.2019](#2)
 
-[Donnerstag, 15.08.2019](#3)
+[3. Donnerstag, 15.08.2019](#3)
 
-[Dienstag, 20.08.2019](#4)
+[4. Dienstag, 20.08.2019](#4)
 
-[Mittwoch, 21.08.2019](#5)
+[5. Mittwoch, 21.08.2019](#5)
 
-[Donnerstag, 22.08.2019](#6)
+[6. Donnerstag, 22.08.2019](#6)
 
-[Dienstag, 27.08.2019](#7)
+[7. Dienstag, 27.08.2019](#7)
 
-[Mittwoch, 28.08.2019](#8)
+[8. Mittwoch, 28.08.2019](#8)
 
-[Donnerstag, 29.8.2019](#9)
+[9. Donnerstag, 29.8.2019](#9)
 
-[Mittwoch, 11.09.2019](#10)
+[10. Mittwoch, 11.09.2019](#10)
 
-[Donnerstag, 12.09.2019](#11)
+[11. Donnerstag, 12.09.2019](#11)
 
-[Dienstag, 24.09.2019](#12)
+[12. Dienstag, 24.09.2019](#12)
 
-[Mittwoch, 25.09.2019](#13)
+[13. Mittwoch, 25.09.2019](#13)
 
-[Donnerstag, 26.09.2019](#14)
+[14. Donnerstag, 26.09.2019](#14)
 
-[Dienstag, 01.10.2019](#15)
+[15. Dienstag, 01.10.2019](#15)
 
-[Mittwoch, 02.10.2019](#16)
+[16. Mittwoch, 02.10.2019](#16)
 
-[Dienstag, 22.10.2019](#17)
+[17. Dienstag, 22.10.2019](#17)
 
-[Mittwoch, 23.10,2019](#18)
+[18. Mittwoch, 23.10,2019](#18)
 
-[Donnerstag, 24.10.2019](#19)
+[19. Donnerstag, 24.10.2019](#19)
 
-[Dienstag, 29.10.2019](#20)
+[20. Dienstag, 29.10.2019](#20)
 
-
+[21. Dienstag, 05.11.2019](#21)
 ### Dienstag, 13.08.2019<a name="1"></a>
 
 Heute war die erste Informatikstunde. Wir haben GitHub kennengelernt und wurden von Herrn Buhl über den Ablauf der Unterrrichtsstunden in Kenntnis gesetzt. Außerdem informierte er uns über die Projekte und nannte uns Beispiele aus den letzten Jahren.
@@ -146,6 +146,7 @@ Nachdem wir uns gestern mit dem Ende des Spiels auseinandergesetzt hatten, stie�
 
  ![Bildschirmfoto 23.10](https://github.com/AntoniaJohannes/Johannes/blob/master/Bildschirmfoto%2023.10..png)
  
+ 
 ### Donnerstag, 24.10.2019<a name="19"></a>
 
 Heute haben wir dem Spiel das Ende gegeben und letzte Codezeilen für das Grundspiel geschrieben. Das Spiel endet nun, indem man den eigenen Winning Coin einsammelt, der erscheint, sobald man 30 Münzen gesammelt hat. Dieser kann auch wieder verschwinden, indem der Gegner diesen einsammelt und so den Coincounter auf 20 zurücksetzt. Sollte ein Spieler gewinnen, erscheint ein hellblauer Hintergrund. Darüber bilden wir eine Medallie und den Sprite des Siegers in Siegerpose ab. Als Text steht dort "Congratulations!" und, je nach Gewinner "Player 1 Wins" bzw. "Player 2 Wins".
@@ -155,6 +156,12 @@ Jetzt, wo das Grundspiel fertig ist, wollen wir weitere Hindernisse einfügen, u
 
 ![Bildschirmfoto Player 2 wins](https://github.com/AntoniaJohannes/Johannes/blob/master/Bildschirmfoto%20Player%202%20wins.jpeg)
 
+
 ### Dienstag, 29.10.2019<a name="20"></a>
 
-In der heutigen Informatikstunde haben wir unser Spiel fertiggestellt. Wir haben, wie wir es uns vorgenommen hatten, die Flugbahnen der beiden beweglichen Hindernisse programmiert. Diese fliegen nun in einem Viereck im Uhrzeigersinn um die Sonne herum. Zuerst ist ein Problem aufgetreten, da die Hindernisse über die Punkte, an denen die beiden Charaktere starten, liefen und die Spieler somit Punkte verloren, ohne überhaupt angefangen zu haben. Dieses Problem war schnell behoben durch eine Verkleinerung des Vierecks. Anschließend benannten wir unser Spiel in SpaceCollector um und starteten einige Testdurchläufe. Wir bemerkten keine Probleme und sahen sicherheitshalber noch ein letztes Mal den Code durch. Wir sind sehr zufrieden und beginnen jetzt damit, unseren Bericht über das Projekt zu schreiben.
+In der heutigen Informatikstunde haben wir unser Spiel fertiggestellt. Wir haben, wie wir es uns vorgenommen hatten, die Flugbahnen der beiden beweglichen Hindernisse programmiert. Diese fliegen nun in einem Viereck im Uhrzeigersinn um die Sonne herum. Zuerst ist ein Problem aufgetreten, da die Hindernisse über die Punkte, an denen die beiden Charaktere starten, liefen und die Spieler somit Punkte verloren, ohne überhaupt angefangen zu haben. Dieses Problem war schnell behoben durch eine Verkleinerung des Vierecks. Anschließend benannten wir unser Spiel in SpaceCollector um und starteten einige Testdurchläufe. Wir bemerkten keine Probleme und sahen sicherheitshalber noch ein letztes Mal den Code durch. Wir sind sehr zufrieden und stolz, da wir keinerlei Vorkenntnisse hatten und ein spaßiges Spiel programmiert haben, und beginnen jetzt damit, unseren Bericht über das Projekt zu schreiben.
+
+
+### Dienstag, 05.11.2019<a name="21"></a>
+
+In der heutigen Stunde haben wir das Stundenprotokoll mit Bildern ausgestattet und die Projektseite angelegt. Ab heute wird das Protololl vermutlich kürzer ausfallen, da wir uns nun auf die Dokumentation unseres Spiels und seiner Mechaniken konzentrieren werde, da unser Spiel in unseren Augen fertig ist.
