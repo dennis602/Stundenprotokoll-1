@@ -151,9 +151,9 @@ Nachdem wir uns gestern mit dem Ende des Spiels auseinandergesetzt hatten, stie�
 Heute haben wir dem Spiel das Ende gegeben und letzte Codezeilen für das Grundspiel geschrieben. Das Spiel endet nun, indem man den eigenen Winning Coin einsammelt, der erscheint, sobald man 30 Münzen gesammelt hat. Dieser kann auch wieder verschwinden, indem der Gegner diesen einsammelt und so den Coincounter auf 20 zurücksetzt. Sollte ein Spieler gewinnen, erscheint ein hellblauer Hintergrund. Darüber bilden wir eine Medallie und den Sprite des Siegers in Siegerpose ab. Als Text steht dort "Congratulations!" und, je nach Gewinner "Player 1 Wins" bzw. "Player 2 Wins".
 Jetzt, wo das Grundspiel fertig ist, wollen wir weitere Hindernisse einfügen, um das Spiel etwas schwieriger zu gestalten. Deshalb haben wir zwei Raumschiffe ausgewählt, die in einem Quadrat um das zentrale Hindernis, die Sonne, im Uhrzeigersinn herumfliegen sollen. In der nächsten Stunde werden wir die Flugbahnen und das Verhalten bei Zusammenstoß programmieren, da wir heute erst gegen Ende der Stunde damit angefangen hatten.
 
-[Bildschirmfoto Player 1 wins](https://github.com/AntoniaJohannes/Johannes/blob/master/Bildschirmfoto%20Player%201%20wins%20.jpeg)
+![Bildschirmfoto Player 1 wins](https://github.com/AntoniaJohannes/Johannes/blob/master/Bildschirmfoto%20Player%201%20wins%20.jpeg)
 
-[Bildschirmfoto Player 2 wins](https://github.com/AntoniaJohannes/Johannes/blob/master/Bildschirmfoto%20Player%202%20wins.jpeg)
+![Bildschirmfoto Player 2 wins](https://github.com/AntoniaJohannes/Johannes/blob/master/Bildschirmfoto%20Player%202%20wins.jpeg)
 
 ### Dienstag, 29.10.2019<a name="20"></a>
 
