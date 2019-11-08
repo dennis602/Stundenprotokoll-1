@@ -1,6 +1,5 @@
-# Antonia Schröder und Johannes Perlitz
-## Stundenprotokoll
-### Inhaltsverzeichnis
+# Antonia Schröder und Johannes Perlitz: Stundenprotokoll
+## Inhaltsverzeichnis
 
 [1. Dienstag, 13.08.2019](#1)
 
@@ -43,6 +42,12 @@
 [20. Dienstag, 29.10.2019](#20)
 
 [21. Dienstag, 05.11.2019](#21)
+
+[22. Mittwoch, 06.11.2019](#22)
+
+[Donnerstag, 07.11.2019](#23)
+
+
 ### Dienstag, 13.08.2019<a name="1"></a>
 
 Heute war die erste Informatikstunde. Wir haben GitHub kennengelernt und wurden von Herrn Buhl über den Ablauf der Unterrrichtsstunden in Kenntnis gesetzt. Außerdem informierte er uns über die Projekte und nannte uns Beispiele aus den letzten Jahren.
@@ -169,12 +174,12 @@ In der heutigen Informatikstunde haben wir unser Spiel fertiggestellt. Wir haben
 In der heutigen Stunde haben wir das Stundenprotokoll mit Bildern ausgestattet und die Projektseite angelegt. Ab heute wird das Protokoll vermutlich kürzer ausfallen, da wir uns nun auf die Dokumentation unseres Spiels und seiner Mechaniken konzentrieren werde, da unser Spiel in unseren Augen fertig ist.
 
 
-### Mittwoch, 6.11.2019
+### Mittwoch, 6.11.2019<a name="22"></a>
 
 Nachdem wir in der letzten Stunde die Projektseite angelegt hatten, haben wir heute mit dem Schreiben begonnen. Auch dem Stundenprotokoll haben wir etwas Aufmerksamkeit geschenkt, indem wir weitere Bilder hinzugefügt haben und einige Formulierungen verändert haben.
 
 
-### Donnerstag, 7.11.2019
+### Donnerstag, 7.11.2019<a name="23"></a>
 
 Heute haben wir die Projektseite weitergschrieben und Bilder für die Projektseite zugeschnitten und hochgeladen. Außerdem haben wir darüber diskutiert, ob wir unserem Spiel noch eine Taste für einen Neustart hinzufügen, damit das Spiel nicht immer über den Zurücksetzen und Ausführen Button in Code.org neugestartet werden muss. Dies erscheint uns als eine gute Möglichkeit, das Spiel wirklich abzuschließen.
 
