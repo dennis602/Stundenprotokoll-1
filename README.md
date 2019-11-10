@@ -117,13 +117,15 @@ In dieser Stunde haben wir den Hintergrund festgelegt, welcher schwarz mit klein
 
 Wir wollen unser Projekt im Weltraumthema halten, da die Figuren Aliens darstellen. Wir haben heute die Startpositionen der Spieler sowie die Steuerung codiert. Spieler 1 verwendet die Taste "W" um sich nach oben zu bewegen, "A" um sich nach links zu bewegen, "S" um sich nach unten zu bewegen und "D" um sich entsprechend nach rechts zu bewegen. Der Spieler 2 verwendet für die gleiche Steuerung die Pfeiltasten. Durch das Berühren der verschiedenen Coins erlangt man Punkte. Wenn man einen Coin berührt hat, erscheint er an einer anderen Stelle erneut. Es gibt Coins mit den Wertigkeiten 1, 2, 5 und -1. Diese haben alle ein unterschiedliches Aussehen und sind dadurch eindeutig zu unterscheiden.
 
-Bild Coins
+![Coins](https://github.com/AntoniaJohannes/Stundenprotokoll/blob/master/Coins.PNG)
+
 
 ### Dienstag, 24.09.2019<a name="12"></a>
 
 Nach einwöchiger Pause haben wir uns heute mit der Optimierung der Steuerung beschäftigt. Dazu haben wir zunächst die Bewegungsgeschwindigkeit von 0.5 auf 2 erhöht. Anschließend haben wir Ränder eingefügt, wodurch die Spielfiguren das Spielfeld nicht mehr verlassen können, sondern stattdessen auf der anderen Seite erscheinen. 
 
 ![Edges](https://github.com/AntoniaJohannes/Projektseite-SpaceCollector/blob/master/Edge.PNG)
+
 Ebenfalls wollten wir für die Richtungen "links" und "rechts" andere Animationen einbauen, was jedoch nicht ganz so funktioniert hat, wie wir uns das eigentlich vorgestellt hatten. Das werden wir vermutlich nächste Stunde beheben. Diskutiert haben wir nebenbei auch noch die Funktion der Coins zusätzlich als Collectable, sind aber zu keinem Ergebnis gekommen. Wir müssen den Coins aber auf jeden Fall einen Nutzen geben, da wir kein Endless Game programmieren wollen. Auch über Hindernisse haben wir kurz gesprochen, aber auch hier müssen wir uns noch stärker mit befassen.
 
 
@@ -132,6 +134,7 @@ Ebenfalls wollten wir für die Richtungen "links" und "rechts" andere Animatione
 Wir haben uns heute überlegt, was wir tun können, um unser Spiel interessanter zu gestalten. Wir haben uns überlegt, Hindernisse einzuführen, die das Einsammeln von Coins erschweren sollen. Momentan überlegen wir noch, ob man sie bekämpfen, und damit zerstören kann, oder ob man sie nur umgehen kann. Wir haben programmiert, dass das Hindernis, welches in unserer ersten Überlegung eine Sonne darstellt, Coins nicht überdecken kann, sowie, dass die Coins nicht auf dem Hindernis liegen können.
 
 ![Sonne](https://github.com/AntoniaJohannes/Projektseite-SpaceCollector/blob/master/H1.jpeg)
+
 In der nächsten Stunde müssen wir die Größe des Hindernisses an die Größe der anderen Animationen anpassen und programmieren, was passiert, wenn eine Spielfigur das Hindernis berührt. Wir dachten an einen Verlust von Münzen. Zudem sollten sich die Hindernisse später für mehr Abwechslung bewegen oder verändern, damit das Spiel nicht so eintönig wird.
 Außerdem haben wir das Problem mit der Steuerung aus der letzten Stunde mit einer Änderung in der Steuerungsfunktion behoben. Nun wird durch Drücken der Richtungstasten nicht mehr der Ort der Figur, sondern die Geschwindigkeit verändert. Dadurch ändern sich nun auch die Animationen und das Spiel wird etwas schneller und dynamischer.
 
@@ -150,7 +153,7 @@ Die 12ab war an diesem Tag auf Exkursion und somit nicht im Informatikunterricht
 
 In der letzten Stunde vor den Ferien haben wir uns Gedanken über das Ende des Spiels gemacht. Unsere Idee war, ab einer bestimmten Anzahl gesammelter Coins einen sogenannten WinningCoin erscheinen zu lassen, dessen einsammeln das Spiel beendet.
 
-Bild WInningCoins
+![WinningCoins](https://github.com/AntoniaJohannes/Stundenprotokoll/blob/master/WCs.PNG)
 
 Wir setzten die Mindestanzahl auf 30 Coins und programmierten außerdem, dass der zweite Spieler durch Einsammeln des gegnerischen WinningCoins den Gegner auf 20 Coins zurücksetzen kann. Allerdings stießen wir hier auf verschiedene Probleme: Die WinningCoins waren zwar unsichtbar, aber dennoch auf dem Spielfeld, weshalb man ungewollt auf einmal 20 Coins hatte, da man den WinningCoin unwissend berührt hatte.
 Außerdem funktionierte das geplante Standbild nicht, da sich die Charaktere weiterhin bewegen können. Zudem bewegten sich auch noch die Sterne im Hintergrund. In der nächsten Stunde müssen wir uns hierfür eine Alternative überlegen.
