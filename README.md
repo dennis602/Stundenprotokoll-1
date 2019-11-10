@@ -163,7 +163,7 @@ Außerdem funktionierte das geplante Standbild nicht, da sich die Charaktere wei
 
 Die heutige Unterrichtsstunde war die erste nach den Herbstferien. Erst haben wir uns in unseren Code wieder eingelesen und rekonstruiert, was unsere letzte Veränderung war. Wir haben uns daran erinnert, dass wir daran gearbeitet haben, dem Spiel ein Ende zu programmieren. Wir haben uns überlegt, dass man die Charaktere nicht mehr bewegen kann und dass nur noch die Figur des Spielers, der gewonnen hat, zu sehen sein sollte. Wir fügten einen neuen Hintergrund ein, der den alten überlagert und lassen alle Spielfiguren, Hindernisse und Coins verschwinden. Außerdem suchten wir nach einer Medallie, die dann neben dem Spieler auftauchen sollte, um einen Gewinnerbildschirm zu erzeugen. 
 
-Bild Medaille
+![Medaille](https://github.com/AntoniaJohannes/Projektseite-SpaceCollector/blob/master/M.jpeg)
 
 Eventuell wollen wir einen Text hinzufügen, in dem steht, welcher Spieler gewann. Wir haben beschlossen, das Spiel so weit wie möglich zu beenden, um uns dann um die Feinheiten zu kümmern und eventuell noch bewegliche Hindernisse hinzuzufügen.
 Zudem konnten wir das Problem mit den unsichtbaren Winning Coins durch zusätzliche Voraussetzungen im Code beheben. Auch das Standbild funktioniert nun besser, da der neue Hintergrund die Sterne überlagert.
