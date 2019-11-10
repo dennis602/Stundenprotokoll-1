@@ -190,6 +190,8 @@ Jetzt, wo das Grundspiel fertig ist, wollen wir weitere Hindernisse einfügen, u
 
 In der heutigen Informatikstunde haben wir unser Spiel fertiggestellt. Wir haben, wie wir es uns vorgenommen hatten, die Flugbahnen der beiden beweglichen Hindernisse programmiert. Diese fliegen nun in einem Viereck im Uhrzeigersinn um die Sonne herum. Zuerst ist ein Problem aufgetreten, da die Hindernisse über die Punkte, an denen die beiden Charaktere starten, liefen und die Spieler somit Punkte verloren, ohne überhaupt angefangen zu haben. Dieses Problem war schnell behoben durch eine Verkleinerung des Vierecks. Anschließend benannten wir unser Spiel in SpaceCollector um und starteten einige Testdurchläufe. Wir bemerkten keine Probleme und sahen sicherheitshalber noch ein letztes Mal den Code durch. Wir sind sehr zufrieden und stolz, da wir keinerlei Vorkenntnisse hatten und ein spaßiges Spiel programmiert haben, und beginnen jetzt damit, unseren Bericht über das Projekt zu schreiben.
 
+![Fertig](https://github.com/AntoniaJohannes/Stundenprotokoll/blob/master/Fertig.PNG)
+
 
 ### Dienstag, 05.11.2019<a name="21"></a>
 
