@@ -200,11 +200,14 @@ In der heutigen Stunde haben wir das Stundenprotokoll mit Bildern ausgestattet u
 
 ### Mittwoch, 6.11.2019<a name="22"></a>
 
-Nachdem wir in der letzten Stunde die Projektseite angelegt hatten, haben wir heute mit dem Schreiben begonnen. Auch dem Stundenprotokoll haben wir etwas Aufmerksamkeit geschenkt, indem wir weitere Bilder hinzugefügt haben und einige Formulierungen verändert haben.
+Nachdem wir in der letzten Stunde die [Projektseite](https://github.com/AntoniaJohannes/Projektseite-SpaceCollector) angelegt hatten, haben wir heute mit dem Schreiben begonnen. Auch dem Stundenprotokoll haben wir etwas Aufmerksamkeit geschenkt, indem wir weitere Bilder hinzugefügt haben und einige Formulierungen verändert haben.
 
 
 ### Donnerstag, 7.11.2019<a name="23"></a>
 
-Heute haben wir die Projektseite weitergschrieben und Bilder für die Projektseite zugeschnitten und hochgeladen. Außerdem haben wir darüber diskutiert, ob wir unserem Spiel noch eine Taste für einen Neustart hinzufügen, damit das Spiel nicht immer über den Zurücksetzen und Ausführen Button in Code.org neugestartet werden muss. Dies erscheint uns als eine gute Möglichkeit, das Spiel wirklich abzuschließen.
+Heute haben wir die [Projektseite](https://github.com/AntoniaJohannes/Projektseite-SpaceCollector) weitergschrieben und Bilder für die Projektseite zugeschnitten und hochgeladen. Außerdem haben wir darüber diskutiert, ob wir unserem Spiel noch eine Taste für einen Neustart hinzufügen, damit das Spiel nicht immer über den Zurücksetzen und Ausführen Button in Code.org neugestartet werden muss. Dies erscheint uns als eine gute Möglichkeit, das Spiel wirklich abzuschließen.
 
 
+### Samstag, 9.11.2019
+
+Jetzt am Wochenende habe ich (Johannes) die [Projektseite](https://github.com/AntoniaJohannes/Projektseite-SpaceCollector) fertiggestellt. Diese ist nun vollständig. In den Unterrichtsstunden können wir uns jetzt voll und ganz auf die Perfektionierung unserer Programme konzentrieren. Wir liegen sehr gut im Zeitplan, was uns wirklich freut.
