@@ -221,6 +221,8 @@ Jetzt am Wochenende habe ich (Johannes) die [Projektseite](https://github.com/An
 
 Nachdem wir die Projektseite heute zusammen noch ein letztes Mal durchgegangen sind, haben wir ein Schlusswort hinzugefügt und das Spiel hochgeladen. 
 
+![Hochgeladenes Spiel](https://github.com/AntoniaJohannes/Stundenprotokoll/blob/master/Hochgeladen.PNG)
+
 SpaceCollector:  https://studio.code.org/projects/gamelab/7G1n-J1ZHxGsOA5-wcynzeOqAHwWLhN4u_mioXmjiS0
 
 Nun sind wir fertig. Wir sind stolz auf unsere Leistung und werden nun Ideen für eine Weiterentwicklung sammeln, welche nicht mehr vor Abgabe ins Spiel eingefügt werden wird.
