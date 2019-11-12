@@ -47,6 +47,10 @@
 
 [23. Donnerstag, 07.11.2019](#23)
 
+[24. Samstag, 09.11.2019](#24)
+
+[25. Dienstag, 12.11.2019](#25)
+
 
 ### Dienstag, 13.08.2019<a name="1"></a>
 
@@ -208,6 +212,15 @@ Nachdem wir in der letzten Stunde die [Projektseite](https://github.com/AntoniaJ
 Heute haben wir die [Projektseite](https://github.com/AntoniaJohannes/Projektseite-SpaceCollector) weitergschrieben und Bilder für die Projektseite zugeschnitten und hochgeladen. Außerdem haben wir darüber diskutiert, ob wir unserem Spiel noch eine Taste für einen Neustart hinzufügen, damit das Spiel nicht immer über den Zurücksetzen und Ausführen Button in Code.org neugestartet werden muss. Dies erscheint uns als eine gute Möglichkeit, das Spiel wirklich abzuschließen.
 
 
-### Samstag, 9.11.2019
+### Samstag, 9.11.2019<a name="24"></a>
 
 Jetzt am Wochenende habe ich (Johannes) die [Projektseite](https://github.com/AntoniaJohannes/Projektseite-SpaceCollector) fertiggestellt. Diese ist nun vollständig. In den Unterrichtsstunden können wir uns jetzt voll und ganz auf die Perfektionierung unserer Programme konzentrieren. Wir liegen sehr gut im Zeitplan, was uns wirklich freut.
+
+
+### Dienstag, 12.11.2019<a name="25"></a>
+
+Nachdem wir die Projektseite heute zusammen noch ein letztes Mal durchgegangen sind, haben wir ein Schlusswort hinzugefügt und das Spiel hochgeladen. 
+
+SpaceCollector:  https://studio.code.org/projects/gamelab/7G1n-J1ZHxGsOA5-wcynzeOqAHwWLhN4u_mioXmjiS0
+
+Nun sind wir fertig. Wir sind stolz auf unsere Leistung und werden nun Ideen für eine Weiterentwicklung sammeln, welche nicht mehr vor Abgabe ins Spiel eingefügt werden wird.
